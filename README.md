@@ -1,4 +1,4 @@
-Teste automatizado que realiza uma ou várias requisições em json
+Cadastro automatizado que realiza uma ou várias requisições em json
 
 ## 🚀 Para iniciar
   - Instale o Node
